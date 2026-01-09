@@ -1,0 +1,51 @@
+{
+  "HeroSection": {
+    "title": "Hi, I'm Monami!",
+    "introPrefix": "I'm a junior software developer specializing in mobile development,",
+    "introRole": "passionate about software engineering,",
+    "introSuffix": "and working toward a career in innovative and forward-thinking industries.",
+    "buttonProjects": "Projects"
+  },
+  "AboutSection": {
+    "title": "About Me",
+    "subtitle": "Get to know me!",
+    "introLine1": "Hi, my name is Monami and I am a",
+    "introTraitAmbitious": "highly motivated",
+    "introTraitSelfMotivated": "curious",
+    "introTraitDriven": "driven",
+    "introLine1Suffix": "junior developer specializing in mobile development and software engineering.",
+    "education": "I am currently studying ICT with a focus on mobile development, continuously building my skills through hands-on projects and real-world problem solving.",
+    "learningMindset": "I enjoy exploring new technologies, learning continuously, and finding ways to improve my development workflow. Staying curious and engaged helps me grow both personally and professionally.",
+    "growthMindsetPrefix": "I believe that you should",
+    "growthMindsetHighlight": "never stop growing",
+    "growthMindsetSuffix": "and I approach every project with curiosity and a desire to improve. I’m passionate about technology and excited to build a career in innovative and forward-thinking industries.",
+    "cvButton": "View my English CV",
+    "skillsTitle": "My Skills"
+  },
+  "ProjectsSection": {
+    "title": "Projects",
+    "projects": {
+      "libraryHub": {
+        "name": "Library Hub",
+        "description": "Library Hub is an accessible and efficient digital library catalogue system that streamlines searching, borrowing, and returning books. It automates routine operations, provides real-time updates on book availability, and supports user engagement through multilingual content, role-based authentication, and reservation management features."
+      },
+
+      "airportSimulator": {
+        "name": "Airport Simulator",
+        "description": "This project simulates the process of passengers moving through an airport using a queueing model. Passengers go through service points such as check-in, security, passport control, and boarding. Users can configure parameters such as arrival intervals, number of non-EU passengers, simulation time, and delay, while the interface visualizes queues and displays simulation results."
+      },
+      "dailyBalance": {
+        "name": "Daily Balance",
+        "description": "Daily Balance is a web application designed to help users track and improve their well-being. It combines journaling, AI-powered analysis, and social features to provide insights into daily activities and their impact on overall health."
+      },
+      "heartRate": {
+        "name": "Heart Rate Monitoring Device",
+        "description": "A Raspberry Pi Pico–based HR monitoring device with live PPG signals, HRV analysis, Kubios cloud integration via MQTT, and history tracking."
+      },
+      "flightGame": {
+        "name": "Flight Game Project",
+        "description": "A collaborative flight simulation game using real-world airport data, Leaflet maps, and real-time weather from OpenWeatherMap."
+      }
+    }
+  }
+}

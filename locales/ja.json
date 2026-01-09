@@ -1,0 +1,50 @@
+{
+  "HeroSection": {
+    "title": "こんにちは、Monamiです！",
+    "introPrefix": "私はモバイル開発を専門とするジュニアソフトウェアデベロッパーで、",
+    "introRole": "ソフトウェアエンジニアリングに情熱を持ち、",
+    "introSuffix": "革新的で未来志向の業界で活躍することを目指しています。",
+    "buttonProjects": "プロジェクト"
+  },
+  "AboutSection": {
+    "title": "自己紹介",
+    "subtitle": "私について",
+    "introLine1": "こんにちは、Monamiです。私は",
+    "introTraitAmbitious": "高い向上心を持つ",
+    "introTraitSelfMotivated": "好奇心旺盛な",
+    "introTraitDriven": "主体的に行動する",
+    "introLine1Suffix": "ジュニアデベロッパーで、モバイル開発とソフトウェアエンジニアリングを専門としています。",
+    "education": "現在はICT分野でモバイル開発を中心に学んでおり、実践的なプロジェクトやリアルな課題解決を通してスキルを磨いています。",
+    "learningMindset": "新しい技術を探求し続けること、継続的に学ぶこと、そして開発ワークフローを改善する方法を見つけることが好きです。好奇心と探究心が、私の成長を支えています。",
+    "growthMindsetPrefix": "私は、",
+    "growthMindsetHighlight": "成長を止めないこと",
+    "growthMindsetSuffix": "が大切だと考えており、どのプロジェクトにも向上心と学ぶ姿勢を持って取り組んでいます。テクノロジーが大好きで、革新的で未来志向の分野でキャリアを築くことにワクワクしています。",
+    "cvButton": "英語版の履歴書を開く",
+    "skillsTitle": "スキル"
+  },
+  "ProjectsSection": {
+    "title": "プロジェクト",
+    "projects": {
+      "libraryHub": {
+        "name": "Library Hub",
+        "description": "Library Hubは、書籍の検索・貸出・返却をスムーズに行える、使いやすく効率的なデジタル図書館システムです。ルーティン作業を自動化し、書籍の在庫状況をリアルタイムで更新し、多言語対応やロールベース認証、予約管理機能を通してユーザー体験を向上させます。"
+      },
+      "airportSimulator": {
+        "name": "Airport Simulator",
+        "description": "このプロジェクトは、空港内を移動する乗客の流れを待ち行列モデルに基づいてシミュレーションします。乗客はチェックイン、保安検査、パスポートコントロール、搭乗などのサービスポイントを通過します。ユーザーは到着間隔、EU域外の乗客数、シミュレーション時間、遅延などのパラメータを設定でき、インターフェース上で各サービスの待ち行列や結果を視覚的に確認できます。"
+      },
+      "dailyBalance": {
+        "name": "Daily Balance",
+        "description": "Daily Balanceは、ユーザーが日々の行動を記録し、ウェルビーイングを向上させるためのWebアプリケーションです。日記入力、AI分析、ソーシャル機能を組み合わせ、日々の活動が心理的・認知的・身体的・社会的な健康にどのように影響するかを可視化します。"
+      },
+      "heartRate": {
+        "name": "Heart Rate Monitoring Device",
+        "description": "Raspberry Pi Picoを用いた心拍測定デバイスで、リアルタイムPPG信号、HRV分析、MQTTを介したKubiosクラウド連携、履歴管理機能を備えています。"
+      },
+      "flightGame": {
+        "name": "Flight Game Project",
+        "description": "実際の空港データ、Leafletマップ、OpenWeatherMapのリアルタイム天気情報を活用した協働型フライトシミュレーションゲームです。"
+      }
+    }
+  }
+}

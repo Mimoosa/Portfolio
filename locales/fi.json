@@ -1,0 +1,50 @@
+{
+  "HeroSection": {
+    "title": "Hei, olen Monami!",
+    "introPrefix": "Olen junioriohjelmistokehittäjä, joka erikoistuu mobiilikehitykseen,",
+    "introRole": "into­himoinen ohjelmistotekniikan parissa,",
+    "introSuffix": "ja suuntaamassa uraa innovatiivisilla ja tulevaisuuteen katsovilla aloilla.",
+    "buttonProjects": "Projektit"
+  },
+  "AboutSection": {
+    "title": "Tietoa minusta",
+    "subtitle": "Tutustu minuun!",
+    "introLine1": "Hei, nimeni on Monami ja olen",
+    "introTraitAmbitious": "erittäin motivoitunut",
+    "introTraitSelfMotivated": "utelias",
+    "introTraitDriven": "tavoitteellinen",
+    "introLine1Suffix": "juniorikehittäjä, joka erikoistuu mobiilikehitykseen ja ohjelmistotekniikkaan.",
+    "education": "Opiskelen tällä hetkellä ICT-alaa mobiilikehityksen painotuksella ja kehityn jatkuvasti käytännön projektien ja todellisten ongelmien ratkaisun kautta.",
+    "learningMindset": "Pidän uusien teknologioiden tutkimisesta, jatkuvasta oppimisesta ja tavoista parantaa omaa kehitysprosessiani. Uteliaisuus ja aktiivinen asenne auttavat minua kasvamaan sekä henkilökohtaisesti että ammatillisesti.",
+    "growthMindsetPrefix": "Uskon, että sinun tulisi",
+    "growthMindsetHighlight": "ei koskaan lakata kehittymästä",
+    "growthMindsetSuffix": "ja lähestyn jokaista projektia uteliaisuudella ja halulla parantaa. Olen intohimoinen teknologiasta ja innostunut rakentamaan uraa innovatiivisilla ja tulevaisuuteen suuntautuvilla aloilla.",
+    "cvButton": "Avaa englanninkielinen CV",
+    "skillsTitle": "Taitoni"
+  },
+  "ProjectsSection": {
+    "title": "Projektit",
+    "projects": {
+      "libraryHub": {
+        "name": "Library Hub",
+        "description": "Library Hub on helppokäyttöinen ja tehokas digitaalinen kirjastojärjestelmä, joka yksinkertaistaa kirjojen hakemista, lainaamista ja palauttamista. Se automatisoi rutiinitoimintoja, tarjoaa reaaliaikaiset saatavuustiedot ja tukee käyttäjäkokemusta monikielisellä sisällöllä, roolipohjaisella autentikoinnilla ja varausjärjestelmällä."
+      },
+      "airportSimulator": {
+        "name": "Airport Simulator",
+        "description": "Tämä projekti simuloi matkustajien kulkua lentokentällä jonotusmallin avulla. Matkustajat käyvät läpi palvelupisteitä, kuten lähtöselvitys, turvatarkastus, passintarkastus ja boarding. Käyttäjä voi määrittää parametreja, kuten matkustajien saapumisvälit, EU:n ulkopuolelta tulevien matkustajien määrän, simulointiajan ja viiveen, ja käyttöliittymä näyttää jonot sekä simuloinnin tulokset."
+      },
+      "dailyBalance": {
+        "name": "Daily Balance",
+        "description": "Daily Balance on verkkosovellus, joka auttaa käyttäjiä seuraamaan ja parantamaan hyvinvointiaan. Se yhdistää päiväkirjamerkinnät, tekoälyanalyysin ja sosiaaliset ominaisuudet tarjotakseen näkemyksiä päivittäisten toimintojen vaikutuksesta kokonaisvaltaiseen hyvinvointiin."
+      },
+      "heartRate": {
+        "name": "Heart Rate Monitoring Device",
+        "description": "Raspberry Pi Pico -pohjainen sykemittauslaite, jossa on reaaliaikaiset PPG-signaalit, HRV-analyysi, Kubios-pilvi-integraatio MQTT:n kautta ja historiatietojen seuranta."
+      },
+      "flightGame": {
+        "name": "Flight Game Project",
+        "description": "Yhteistyössä toteutettu lentosimulaatiopeli, joka hyödyntää oikeita lentokenttätietoja, Leaflet-karttoja ja OpenWeatherMapin reaaliaikaista säätietoa."
+      }
+    }
+  }
+}
