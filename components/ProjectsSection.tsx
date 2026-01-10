@@ -98,12 +98,12 @@ const ProjectsSection = () => {
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded" />
       </h1>
 
-      <div className="flex flex-col space-y-28">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-16">
         {projects.map((project, idx) => (
           <div key={idx}>
             <SlideUp offset="-300px 0px -300px 0px">
-              <div className="flex flex-col md:flex-row md:space-x-12">
-                <div className="md:w-1/2">
+              <div className="flex flex-col">
+                <div>
                   <iframe
                     width="100%"
                     height="315"
@@ -114,7 +114,7 @@ const ProjectsSection = () => {
                   />
                 </div>
 
-                <div className="mt-8 md:w-1/2">
+                <div className="mt-8">
                   <h1 className="text-4xl font-bold mb-6">
                     {t(`projects.${project.key}.name`)}
                     <span className="text-teal-500 text-2xl ml-3">
