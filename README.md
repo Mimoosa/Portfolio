@@ -1,18 +1,21 @@
-# Tailwind CSS and Next.js Portfolio
+# Monami Kirjavainen – Portfolio
 
-This is a template for creating a portfolio with Tailwind CSS and Next.js.
+This is my personal developer portfolio built with **Next.js**, **Tailwind CSS**, and **TypeScript**.  
+It showcases my projects, skills, and background as a junior software developer specializing in mobile development and software engineering.
 
-![Portfolio Demo](demo/demo.gif)
+## 🚀 Features
 
-## How it works
+- Fully responsive design
+- Dark/Light theme toggle
+- Multilingual support (English / Finnish / Japanese)
+- Smooth scrolling navigation
+- Project showcase with detailed descriptions
+- Clean and modern UI built with Tailwind CSS
 
-Fork or download the repo and change whatever you need to change for your needs.
+## 🛠️ Tech Stack
 
-## Running Locally
-
-Can run the application in VS Code or a terminal and it will be available at `http://localhost:3000`.
-
-```bash
-npm install
-npm run dev
-```
+- **Next.js (App Router)**
+- **React**
+- **Tailwind CSS**
+- **TypeScript**
+- **next-intl** for internationalization
