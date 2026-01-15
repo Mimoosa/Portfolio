@@ -51,7 +51,7 @@ const AboutSection = () => {
             </p>
             <br />{" "}
             <a
-              href="/cv/Monami_Kirjavainen_cv.pdf"
+              href="/cv/Monami_Kirjavainen_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 bg-teal-600 text-white font-semibold rounded hover:bg-teal-700 transition"
