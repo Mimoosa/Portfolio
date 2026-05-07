@@ -11,6 +11,44 @@ const ProjectsSection = () => {
 
   const projects = [
     {
+      key: "meetUp",
+      year: "2026",
+      tech: [
+        "Kotlin",
+        "Jetpack Compose",
+        "Material 3",
+        "Retrofit",
+        "Room",
+        "Firebase Firestore",
+        "Firebase Auth",
+        "Google Places API",
+        "Coil 3",
+        "WorkManager",
+        "Detekt",
+        "Ktlint",
+        "Dokka",
+      ],
+      youtube: "https://www.youtube.com/embed/Wv6ErIDPG68?si=3MTj-4sGEe66l0ou",
+      github: "https://github.com/Mimoosa/MeetingApp.git",
+    },
+
+    {
+      key: "rockPaperScissorsLeague",
+      year: "2026",
+      tech: [
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "SSE (Server-Sent Events)",
+        "REST API",
+      ],
+      youtube:
+        "https://www.youtube.com/embed/KGpgbgMQA8o?si=pfVNDd4GnjSKcKjc&amp;start=2",
+      github: "https://github.com/Mimoosa/rock-paper-scissors-league.git",
+    },
+    {
       key: "libraryHub",
       year: "2025",
       tech: [

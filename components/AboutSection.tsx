@@ -3,9 +3,12 @@ import React from "react";
 import { useTranslations } from "next-intl";
 
 const skills = [
-  { category: "Languages", items: ["JavaScript", "Python", "Java"] },
+  {
+    category: "Languages",
+    items: ["Kotlin", "Swift", "TypeScript", "JavaScript", "Python", "Java"],
+  },
   { category: "Backend", items: ["Node.js"] },
-  { category: "Databases", items: ["MySQL", "MongoDB"] },
+  { category: "Databases", items: ["MySQL", "MongoDB", "Firebase Firestore"] },
   { category: "Frontend", items: ["React", "Next.js", "Tailwind CSS"] },
   {
     category: "Tools",

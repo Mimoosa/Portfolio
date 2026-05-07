@@ -24,7 +24,16 @@
   },
   "ProjectsSection": {
     "title": "Projects",
+
     "projects": {
+      "meetUp": {
+        "name": "Meeting App – MeetUp",
+        "description": "A collaborative Android app that helps groups decide the best time and place to meet. Participants submit availability and location preferences, vote on restaurant options, and receive real-time updates through Firebase Firestore and local notifications. Built with Jetpack Compose, Google Places API, and offline support via Room."
+      },
+      "rockPaperScissorsLeague": {
+        "name": "Rock-Paper-Scissors League",
+        "description": "A web application for exploring and visualizing Rock-Paper-Scissors league data. It fetches historical and live match results from an external API and displays player performance, match outcomes, and league statistics. Built within one week as an assignment project."
+      },
       "libraryHub": {
         "name": "Library Hub",
         "description": "Library Hub is an accessible and efficient digital library catalogue system that streamlines searching, borrowing, and returning books. It automates routine operations, provides real-time updates on book availability, and supports user engagement through multilingual content, role-based authentication, and reservation management features."

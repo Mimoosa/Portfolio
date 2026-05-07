@@ -24,7 +24,16 @@
   },
   "ProjectsSection": {
     "title": "Projektit",
+
     "projects": {
+      "meetUp": {
+        "name": "Meeting App – MeetUp",
+        "description": "Yhteistyöhön perustuva Android-sovellus, joka auttaa ryhmiä sopimaan parhaasta tapaamisajasta ja -paikasta. Osallistujat voivat ilmoittaa saatavuutensa ja paikkatoiveensa, äänestää ravintolavaihtoehdoista ja saada reaaliaikaisia päivityksiä Firebase Firestoren ja paikallisten ilmoitusten kautta. Rakennettu Jetpack Composella, Google Places API:lla ja Roomin offline-tuella."
+      },
+      "rockPaperScissorsLeague": {
+        "name": "Rock-Paper-Scissors League",
+        "description": "Verkkosovellus, joka visualisoi ja tutkii kivi–paperi–sakset -liigan dataa. Sovellus hakee sekä historiallisia että reaaliaikaisia ottelutuloksia ulkoisesta API:sta ja näyttää pelaajien suoritukset, otteluiden tulokset ja liigatilastot. Toteutettu viikon mittaisena kurssitehtävänä."
+      },
       "libraryHub": {
         "name": "Library Hub",
         "description": "Library Hub on helppokäyttöinen ja tehokas digitaalinen kirjastojärjestelmä, joka yksinkertaistaa kirjojen hakemista, lainaamista ja palauttamista. Se automatisoi rutiinitoimintoja, tarjoaa reaaliaikaiset saatavuustiedot ja tukee käyttäjäkokemusta monikielisellä sisällöllä, roolipohjaisella autentikoinnilla ja varausjärjestelmällä."
