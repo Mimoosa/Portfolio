@@ -27,11 +27,11 @@
     "projects": {
       "meetUp": {
         "name": "Meeting App – MeetUp",
-        "description": "グループでの予定調整を簡単にするための協働型Androidアプリです。参加者は自分の空き時間や希望する場所を入力し、レストラン候補に投票できます。Firebase Firestoreによるリアルタイム同期、Google Places APIによる場所検索、ローカル通知やRoomによるオフライン対応など、快適なマルチユーザー体験を実現しています。"
+        "description": "グループの“いつ・どこで会うか”を簡単に決められる Android アプリです。参加者は自分の空き時間や希望する場所を入力し、レストラン候補に投票できます。Firebase Firestoreによるリアルタイム同期、Google Places APIによる場所検索、ローカル通知やRoomによるオフライン対応など、快適なマルチユーザー体験を実現しています。"
       },
       "rockPaperScissorsLeague": {
         "name": "Rock-Paper-Scissors League",
-        "description": "じゃんけんリーグのデータを可視化するためのWebアプリです。外部APIから履歴データとライブ試合データを取得し、プレイヤーの成績、試合結果、リーグ統計を表示します。1週間の課題プロジェクトとして開発されました。"
+        "description": "じゃんけんリーグのデータを可視化するためのWebアプリです。外部APIから履歴データとライブ試合データを取得し、プレイヤーの成績、試合結果、リーグ統計を表示します。1週間の課題プロジェクトとして開発しました。"
       },
       "libraryHub": {
         "name": "Library Hub",
